@@ -30,6 +30,9 @@ ul {
     line-height: 88px;
     background:#BFD7E2;
     text-align: center;
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
 }
 #cishu {
     width: 100%;
